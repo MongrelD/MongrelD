@@ -1,4 +1,5 @@
 CEO, Main Developer, designer and only employee of <a href="https://corpseproject.com">Corpse Project</a>
+<br />
 For partnership write <a href="">here</a>
 <br />
 <a href="https://corpseproject.com">🏢Company Website </a>
